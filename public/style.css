@@ -1,0 +1,159 @@
+@import url('https://fonts.googleapis.com/css2?family=Akronim&family=Londrina+Solid&family=Pangolin&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
+body{
+    background-image: url("https://i.pinimg.com/originals/a3/c4/ba/a3c4ba8f16e6e5ef51f60ee3b3c89af1.jpg");
+}
+img{
+    margin-top: 40px;
+    width: 200px; 
+    height:200px;
+}
+
+.titulo{
+    font-family: 'Londrina Solid', cursive;
+    font-size: 120px;
+    color:#F8C605;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: black;    
+}
+
+#pesquisa{
+    background-color:rgb(245, 241, 241,0.90);
+    font-family: 'Londrina Solid', cursive;
+    font-size: 25px;
+    border-radius: 20px;
+    
+}
+
+#fundo{
+    background-color:rgb(245, 241, 241,0.90);
+    
+}
+
+#historia{    
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 10px;
+    color:black;
+    text-align: center;
+    
+}
+
+#sobre{
+    text-align: center;
+    margin-top: 50px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    color:#F8C605;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;    
+}
+#ava{
+    text-align: center;
+    margin-top: 80px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 50px;
+    color:#F8C605;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+#conq{
+    text-align: center;
+    margin-top: 20px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color:black;
+}
+
+.form{
+    background-color:rgb(245, 241, 241,0.10);
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    color:black;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+    color:#F8C605;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+h4{
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Oswald', sans-serif;
+    margin-top: 10px;
+    color:black;
+}
+
+#pedido{
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+    color:#F8C605;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+#cardapio{
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+    color:#F8C605;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+footer{
+    background-color:rgb(245, 241, 241,0.90);
+    margin-top: 10px;
+    
+}
+
+table, th, td {
+    border: 1px solid white;
+    border-collapse: collapse;
+    font-family: 'Oswald', sans-serif;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding: 10px;
+    
+  }
+th, td {
+    background-color: rgba(191, 208, 130, 1);
+}
+
+#pronto{
+    text-align: center;
+    margin-top: 10px;
+    padding: 10px;
+    font-family: 'Oswald', sans-serif;
+    font-size: 35px;
+    color:#F8C605;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
+
+#ok{
+    margin-top: 40px;
+    width: 200px; 
+    height:200px;
+    margin-left: 520px;
+    padding-bottom: 15px;    
+}
